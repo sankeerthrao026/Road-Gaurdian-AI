@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CAM-01",
+    "name": "Highway 101 Northbound, Rollover Zone",
+    "source_type": "LOCAL_VIDEO",
+    "source_path": "car_accidents/car_rollover 2.mp4",
+    "gps": {
+      "name": "Highway 101 Northbound, Milepost 42",
+      "lat": 47.6101,
+      "lon": -122.2015
+    },
+    "road_name": "Highway 101 Corridor",
+    "direction": "Northbound / Fast Travel Lane",
+    "speed_limit_kmh": 105,
+    "lanes": 3
+  },
+  {
+    "id": "CAM-02",
+    "name": "I-35W North of Roseville",
+    "source_type": "LOCAL_VIDEO",
+    "source_path": "car_accidents/fire_01.mp4",
+    "gps": {
+      "name": "I-35W, County Road 88 Exit",
+      "lat": 45.0941,
+      "lon": -93.1520
+    },
+    "road_name": "I-35W Interstate",
+    "direction": "Northbound Interstate",
+    "speed_limit_kmh": 110,
+    "lanes": 4
+  },
+  {
+    "id": "CAM-03",
+    "name": "170 Freeway, North Hollywood",
+    "source_type": "LOCAL_VIDEO",
+    "source_path": "car_accidents/collision_02.mp4",
+    "gps": {
+      "name": "170 Freeway Southbound, Oxnard St Exit",
+      "lat": 34.1808,
+      "lon": -118.3908
+    },
+    "road_name": "170 Freeway Southbound",
+    "direction": "Southbound Freeway",
+    "speed_limit_kmh": 105,
+    "lanes": 3
+  },
+  {
+    "id": "CAM-04",
+    "name": "I-90 Shoulder, Eastbound",
+    "source_type": "LOCAL_VIDEO",
+    "source_path": "car_accidents/person_road_01.mp4",
+    "gps": {
+      "name": "I-90 Eastbound Shoulder, Mile 12",
+      "lat": 47.5735,
+      "lon": -122.0455
+    },
+    "road_name": "I-90 Eastbound Freeway",
+    "direction": "Eastbound Freeway",
+    "speed_limit_kmh": 105,
+    "lanes": 3
+  }
+]

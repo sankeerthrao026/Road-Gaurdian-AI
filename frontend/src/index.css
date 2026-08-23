@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  background-color: #0D0E10;
+  color: #D4D9DF;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-image: 
+    linear-gradient(rgba(57, 64, 71, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(57, 64, 71, 0.12) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
